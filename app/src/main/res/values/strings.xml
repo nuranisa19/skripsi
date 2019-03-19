@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pusing</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_layout2">layout2</string>
+    <string name="title_activity_layout3">layout3</string>
+    <string name="title_activity_layout4">layout4</string>
+    <string name="title_activity_selesai">selesai</string>
+    <string name="rincian_transaksi">Rincian Transaksi</string>
+    <string name="total_rp_10_000">Total : Rp. 10.000,-</string>
+    <string name="bild_id">Bild Id :</string>
+    <string name="ref_id">Ref Id :</string>
+</resources>
